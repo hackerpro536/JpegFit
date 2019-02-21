@@ -1,0 +1,22 @@
+{
+    "name": "hackerpro536/jpegfit",
+    "type": "library",
+    "description": "JpegFit have class for Optimaze image.",
+    "keywords": ["JpegFit","image", "gd", "thumbnail", "resize", "photo", "Jpeg"],
+    "homepage": "https://github.com/hackerpro536/JpegFit",
+    "license": "LGPL-3.0",
+    "authors": [
+        {
+            "name": "Le Van Phu",
+            "email": "hackerpro536@gmail.com",
+            "homepage": "https://github.com/hackerpro536/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "files": ["class-jpegfit.php"]
+    }
+}
